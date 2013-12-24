@@ -1,5 +1,5 @@
 /*******************************************************************************/
-/* File Name: p#.c                                                             */
+/* File Name: main.c                                                           */
 /* Programmer: Corey Prak                                                      */
 /* Problem #:                                                                  */
 /* Created On: 12/18/2013                                                      */
