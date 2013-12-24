@@ -14,3 +14,9 @@ C exercises with varying difficulty, from James Canning's (University of Massach
 [Problem 5: Sum of Two Values](p5/main.c)
 
 [Problem 6: The fscanf Function](p6/main.c)
+
+[Problem 7: Bigger than 100?](p7/main.c)
+
+[Problem 8: One Horizontal Line of Asterisks](p8/main.c)
+
+[Problem 9: Using a for Loop](p9/main.c)
